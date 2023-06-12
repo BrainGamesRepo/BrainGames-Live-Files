@@ -25,9 +25,9 @@
 		"DelayBetweenInternetCheck": 15
 	},
 	"admobAdSetting": {
-		"ReadFromServer": true,
-		"IsAdmobAdsEnable": true,
-		"wantToShowAppOpen": true,
+		"ReadFromServer": false,
+		"IsAdmobAdsEnable": false,
+		"wantToShowAppOpen": false,
 		"executionOrder": 0,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
@@ -50,9 +50,9 @@
 		]
 	},
 	"appLovinSettings": {
-		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
-		"wantToShowAppOpen": false,
+		"ReadFromServer": true,
+		"IsAppLovinAdsEnable": true,
+		"wantToShowAppOpen": true,
 		"executionOrder": 0,
 		"MaxBannerPosition": 0,
 		"LovinID": "",
