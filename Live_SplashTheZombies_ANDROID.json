@@ -26,8 +26,8 @@
 	},
 	"admobAdSetting": {
 		"ReadFromServer": false,
-		"IsAdmobAdsEnable": false,
-		"wantToShowAppOpen": false,
+		"IsAdmobAdsEnable": true,
+		"wantToShowAppOpen": true,
 		"executionOrder": 0,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
@@ -40,14 +40,8 @@
 		"admobRewardedInterstial": "",
 		"admobNative": "",
 		"defualtAdmobRewarded": "ca-app-pub-9217447570957844/5127664329",
-		"admobInterstial_ECPM_order": [
-			"",
-			""
-		],
-		"admobRewarded_ECPM_order": [
-			"",
-			""
-		]
+		"admobInterstial_ECPM_order": [],
+		"admobRewarded_ECPM_order": []
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
@@ -62,7 +56,7 @@
 		"LovinRewarded": "e465922b8378f4ab"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": true,
+		"IsUnityAdsEnable": false,
 		"executionOrder": 2,
 		"bannerPosition": 0,
 		"unityId_IOS": "5298160",
