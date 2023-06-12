@@ -27,7 +27,7 @@
 	"admobAdSetting": {
 		"ReadFromServer": true,
 		"IsAdmobAdsEnable": true,
-		"wantToShowAppOpen": false,
+		"wantToShowAppOpen": true,
 		"executionOrder": 0,
 		"maxFillRateINTER": 3,
 		"maxFailRateINTER": 3,
