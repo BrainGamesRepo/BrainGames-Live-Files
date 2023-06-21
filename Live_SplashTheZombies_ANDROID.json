@@ -45,7 +45,7 @@
 	},
 	"appLovinSettings": {
 		"ReadFromServer": false,
-		"IsAppLovinAdsEnable": false,
+		"IsAppLovinAdsEnable": true,
 		"wantToShowAppOpen": false,
 		"executionOrder": 1,
 		"MaxBannerPosition": 7,
@@ -56,7 +56,7 @@
 		"LovinRewarded": "e465922b8378f4ab"
 	},
 	"unityAdSetting": {
-		"IsUnityAdsEnable": false,
+		"IsUnityAdsEnable": true,
 		"executionOrder": 2,
 		"bannerPosition": 0,
 		"unityId_IOS": "5298160",
